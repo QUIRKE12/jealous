@@ -1,0 +1,99 @@
+
+                     <div class=""PART2>
+                            <div class="L1"></div>
+
+                                 <div class="CADRE">
+                                    <div class="U3"></div>
+                                   <div class="U4"></div>
+                                 </div>
+                                   
+                                 <div class="OP">
+                                    <li><div id="H22">ABOUT</div></li>
+                                    <li><div id="H23">EVENTS</div></li>
+                                    <li><div id="H24">NEWSLETTWRS</div></li>
+                                    <li><div id="H25">BLOG <img id="img9" src="more und.png" alt=""></div></li>
+                                    <li><div id="H26"><img id="img10" src="search.jfif" alt="">></div></li>
+                                   </div>
+
+
+
+
+                                              <div class="Y1">
+                                                TBD <br>CONSULTING <br>GROUP
+                                                <div class="SE">ABOUT US</div>
+              <p class="M44">Lorem ipsum dolor sit <br> amet ,consecttur adipiscing </p>
+        
+                       
+                     </div>
+<img id="gf" src="mmm.jfif" alt="">
+ <div class="ADAM"> 
+
+<h1 id="lko">2. What kind of future ?</h1>
+
+
+
+   <p>The Bible describes a future <br> time when “death 
+   will be no more <br>, neither will mourning
+   or <br>outcry nor pain be anymore.” <br>
+   The Bible promises that humans will <br> be
+   able to enjoy <br> life forever in Paradise on earth.</p>
+
+
+   <p id="po">
+       (Read Revelation 21:4.) The problems <br> that can
+      make life seem hopeless <br> today​—such as poverty, 
+      injustice, <br> sickness, and death—​will no longer 
+      exist.</p>
+               </div>
+
+ 
+
+               <div class="v0 j">NO ONE WILL EVERYONE WILL</div>
+               <div class="v0 Y">TOP CONTRIBUTOR</div>
+          
+
+        <div class="ADAM1">
+        <img id="xc" src="samp.png" alt="">
+        <img id="xc"  src="sound wave.png" alt="">
+        <img id="xc"  src="polygone.jfif" alt="">
+        <img id="xc"  src="sound wave.png" alt="">
+        <img id="xc"  src="polygone.jfif" alt="">
+       
+        </div>          
+                         
+            
+        <div class="ADAM2">
+        <h1 id="lko">2. WHAT WE DO ?</h1>
+
+        <p>The Bible describes a future time when “death 
+         will be no more <br>, neither will mourning
+         or <br>outcry nor pain be anymore.” 
+         The Bible promises that humans will <br> be
+         able to enjoy life forever in Paradise on earth.</p>
+
+         <img id="xd" src="pre 1.jfif" alt="">
+                     
+         
+         
+         <img id="xe"  src="piece.jfif" alt="">
+         <div class="ADAM3">
+            <h1 id="lko">marhet</h1>
+    
+            <p>The Bible describes a future time when “death 
+               will be no <br> more , neither will mourning
+               or outcry nor pain be anymore.</p>
+               
+             <div class="ADAM4">
+               <div class="v0 t">300K</div>
+               <div class="v0 t">220K</div>
+               <div class="v0 t">12345+</div>
+               <div class="v0 t">35</div>
+               </div>
+             <div class="ADAM5">
+               <div class="v0 gg">COLLEGUE</div>
+               <div class="v0 gg">CITIES</div>
+               <div class="v0 gg">AUTHORS</div>
+               <div class="v0 gg">YEARS</div>
+            </div>
+            
+          
